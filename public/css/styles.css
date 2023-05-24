@@ -1,0 +1,31 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.centered {
+    padding-top: 170px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.btn {
+  width: 175px;
+  margin: 10px;
+}
+
+.btn-light:hover {
+  background-color: #343a40;
+  color: #fff;
+}
